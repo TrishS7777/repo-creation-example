@@ -1,0 +1,2 @@
+This is practice for creating a repository in git bash.  Once I learn how to do it, I will learn to fork, clone, edit with vs code, add, commit and create a pull request.  
+I have learned a lot in this class.  I need to learn how to use VS Code better. 
